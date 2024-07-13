@@ -1,0 +1,17 @@
+.background {
+    background-image: url('./assets/bg3.png') ;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Make the background fixed */
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    /* min-height: 100vh; */
+  }
+  
