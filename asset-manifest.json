@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dbd8302.css",
+    "main.js": "/static/js/main.b36927f5.js",
+    "static/media/software.jpg": "/static/media/software.86c66569a3e124d88c5b.jpg",
+    "static/media/voip2.jpg": "/static/media/voip2.d362a9f1bca4ddf46c67.jpg",
+    "static/media/ai1.jpg": "/static/media/ai1.856d917af0de082d5f25.jpg",
+    "static/media/AIM1.png": "/static/media/AIM1.59239d324c1e600aba94.png",
+    "static/media/mobile.png": "/static/media/mobile.600e3218dee2749d7250.png",
+    "static/media/software12.jpg": "/static/media/software12.a4f8c27fad271a62554d.jpg",
+    "static/media/app12.jpg": "/static/media/app12.e1002c1458fd6af107c7.jpg",
+    "static/media/bg.png": "/static/media/bg.26da33d7dc920149bcc3.png",
+    "static/media/bg3.png": "/static/media/bg3.70d8fd59ec8f82d8714a.png",
+    "static/media/voip1.jpg": "/static/media/voip1.ee026cfb17f8a8144f17.jpg",
+    "static/media/image.png": "/static/media/image.924447f18dfe8b6cf998.png",
+    "static/media/Research_paper.pdf": "/static/media/Research_paper.68267a2cea07e74c672b.pdf",
+    "static/media/logo.png": "/static/media/logo.a45ca0e583216534fd63.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.3dbd8302.css.map": "/static/css/main.3dbd8302.css.map",
+    "main.b36927f5.js.map": "/static/js/main.b36927f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dbd8302.css",
+    "static/js/main.b36927f5.js"
+  ]
+}
